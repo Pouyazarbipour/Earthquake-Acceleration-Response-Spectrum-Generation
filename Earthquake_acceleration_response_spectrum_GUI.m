@@ -1,6 +1,6 @@
 function Earthquake_acceleration_response_spectrum_GUI()
     % Generates Acceleration Response Spectrum Based on API RP 2WSD 2014
-
+    % POUYA ZARBIPOUR LAKPOSHTEH EMAIL: pouyazarbipour@gmail.com
     % Create the figure
     fig = figure('Name', 'Acceleration Response Spectrum Generator', ...
         'NumberTitle', 'off', ...
