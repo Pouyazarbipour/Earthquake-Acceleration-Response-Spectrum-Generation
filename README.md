@@ -15,11 +15,7 @@ To download the **.EXE** file, visit this [link](https://drive.google.com/file/d
 ## How to Use
 
 1. **Launch the GUI:**
-    Open MATLAB, navigate to the folder containing `Earthquake_acceleration_response_spectrum_GUI.m`, and run the script:
-   
-    ```matlab
-    Earthquake_acceleration_response_spectrum_GUI
-    ```
+    - Open App
 2.  **Enter Parameters:**
     - **Coefficient (G):** Enter a positive numerical value.
     - **Soil Type:** Select one of the options (A, B, or C) from the dropdown menu.
@@ -58,11 +54,6 @@ Period (s) Spectral Acceleration (g)
 
 - `Earthquake_acceleration_response_spectrum_GUI.m`: Main MATLAB script.
 - `Export Earthquake acceleration response spectrum.txt`: Example output file (generated after running the script).
-
-## Requirements
-
-- MATLAB R2017b or later.
-- Basic knowledge of response spectrum analysis.
 
 ## Known Issues
 
