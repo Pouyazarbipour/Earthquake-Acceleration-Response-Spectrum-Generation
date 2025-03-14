@@ -1,7 +1,7 @@
 # Earthquake Acceleration Response Spectrum Generation GUI
 
-This MATLAB GUI application generates an **Acceleration Response Spectrum** based on the **API RP 2WSD 2014** standard. The tool allows users to input soil type and coefficient values to compute and visualize the response spectrum.
-To download the **.EXE** file, visit this [link](https://drive.google.com/file/d/10ryFn7tB8vTP-ykpTG7pg3yg-AZlLyno/view?usp=sharing).
+This GUI application generates an **Acceleration Response Spectrum** based on the **API RP 2WSD 2014** standard. The tool allows users to input soil type and coefficient values to compute and visualize the response spectrum.
+To download the **.EXE** file, visit this [link](https://drive.google.com/file/d/1ubn1M6q3CHisTJRM_EpqJ6ysCtnPZ_i5/view?usp=sharing).
 ## Features
 
 - **Input parameters:**
